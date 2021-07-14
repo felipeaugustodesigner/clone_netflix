@@ -45,7 +45,7 @@ header nav{
 
 .filme-principal{
     font-size: 16px;
-    background: /*linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50) 100%),*/ url('/img/capa-lcdp-4.jpg');
+    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50) 100%), url('/img/capa-lcdp-4.jpg');
     height: 90vh;
     background-size: cover;
     display: flex;
